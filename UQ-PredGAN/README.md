@@ -1,6 +1,6 @@
 ## Data Assimilation Predictive GAN (DA-PredGAN) - Forecasting spatial variation of COVID-19 infection using GAN
 
-- 1.ReadCompress.ipynb -> Read and Compress the training snapshots (time steps) using PCA. Apply the PCA Compression to the test datasets. 
+- 1.ReadCompress.ipynb -> Read and compress the training snapshots (time steps) using PCA. Apply the PCA compression to the test datasets. 
 
 - 2.GAN-training.ipynb -> Train a GAN and save the model
 
@@ -32,14 +32,14 @@ $ jupyter nbconvert --to notebook --execute \<notebookname\>.ipynb
 
 ### Run an example of prediction 
 
-5.GAN-Prediction.ipynb (optional)
+3.GAN-Prediction.ipynb (optional)
 
 ### Run an example of data assimilation 
 
-6.GAN-DataAssimilation.ipynb (optional)
+4.GAN-DataAssimilation.ipynb (optional)
 
 ### Run the uncertainty quantification 
 
-7.GAN-UncertaintyQuantification.ipynb
+5.GAN-UncertaintyQuantification.ipynb
 
 
