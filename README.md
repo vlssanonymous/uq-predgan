@@ -2,7 +2,7 @@
 
 This repository is the official implementation of: 
 
-*GAN for time series prediction, data assimilation and uncertainty quantification* paper
+***GAN for time series prediction, data assimilation and uncertainty quantification*** NeurIPS submitted paper.
 
 ## Directories:
 
