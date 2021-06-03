@@ -24,4 +24,8 @@ Finally, start Jupyter:
 ```start
  $ jupyter notebook
 ```
+## Codes
+
+The codes and running instructions are in the directory **UQ-PredGAN**
+
 
