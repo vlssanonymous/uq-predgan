@@ -1,13 +1,13 @@
-# GAN for time series prediction, data assimilation and uncertainty quantification
+# GAN-based Reduced Order Model for Data Assimilation and Uncertainty Quantification
 
 This repository is the official implementation of: 
 
-***GAN for time series prediction, data assimilation and uncertainty quantification*** NeurIPS submitted paper.
+***A GAN-based Reduced Order Model for Data Assimilation and Uncertainty Quantification*** ICML submitted paper.
 
 ## Directories:
 
 - **datasets**: Datasets of the spatio-temporal spread of COVID-19 in an idealized town. 
-- **UQ-PredGAN**: Prediction, data assimilation and uncertainty quantification using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
+- **UQ-PredGAN**: Data assimilation and uncertainty quantification using a GAN-based Reduced Order Model.
 
 ## Requirements
 

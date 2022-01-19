@@ -1,4 +1,4 @@
-## Uncertainty Quantification Predictive GAN (UQ-PredGAN) - Forecasting spatial variation of COVID-19 infection using GAN
+## Uncertainty Quantification Predictive GAN (UQ-PredGAN) - Applied to a spatio-temporal compartmental model in epidemiology
 
 - 1.ReadCompress.ipynb -> Read and compress the training snapshots (time steps) using PCA. Apply the PCA compression to the test datasets. 
 
