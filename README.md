@@ -10,6 +10,7 @@ This repository is the official implementation of:
 - **GAN_evaluation**: New way of evaluating the GAN training. 
 - **Regularization**: Regularization to improve the GAN-based Reduced Order Model. 
 - **UQ-PredGAN**: Data assimilation and uncertainty quantification using a GAN-based Reduced Order Model.
+- **MCMC**: Comparison between the UQ-PredGAN and the Markov chain Monte Carlo (MCMC) methods.
 
 ## Requirements
 
